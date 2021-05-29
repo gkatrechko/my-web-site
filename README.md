@@ -1,2 +1,2 @@
-# my-portfolio
-This is my portfolio web-site
+# my-web-site
+This is my learning portfolio web-site
